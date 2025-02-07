@@ -55,7 +55,16 @@ flutter run
 ---
 
 ## **📸 App Screenshots**
-(Add screenshots of your app here, like Home Screen, Category News, WebView, etc.)
+
+![1 Image 2025-02-07 at 23 21 50](https://github.com/user-attachments/assets/326276ff-f095-4c85-91e1-98a0c1656762)
+![1 Image 2025-02-07 at 23 21 49](https://github.com/user-attachments/assets/cccdfafb-3f7f-4bbf-9d40-ab33b414dac9)
+![1 Image 2025-02-07 at 23 21 49 (1)](https://github.com/user-attachments/assets/4bf6ef11-8faf-4b98-a4da-b6782e59e876)
+![1 Image 2025-02-07 at 23 21 48](https://github.com/user-attachments/assets/77834703-1832-4ffc-be50-9d325edbcd93)
+![1 Image 2025-02-07 at 23 21 48 (2)](https://github.com/user-attachments/assets/b5b116cb-cbc6-41c3-89d6-9e03a8902d7d)
+![1 Image 2025-02-07 at 23 21 48 (1)](https://github.com/user-attachments/assets/0088e66f-8969-438a-b562-d39508f6c857)
+![1 Image 2025-02-07 at 23 21 47](https://github.com/user-attachments/assets/c33c2ab5-1462-491a-a11d-2ed7893833a0)
+
+
 
 ---
 
