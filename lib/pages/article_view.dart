@@ -28,8 +28,7 @@ class _ArticleViewState extends State<ArticleView> {
         title:Row(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text("flutter"),
-            Text("news", style: TextStyle(color: Colors.blue, fontWeight: FontWeight.bold),
+            Text("News App", style: TextStyle(color: Colors.blue, fontSize: 30,fontWeight: FontWeight.bold,fontFamily: 'MonomaniacOne-Regular'),
             ),
           ],
         ),
