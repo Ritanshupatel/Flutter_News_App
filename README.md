@@ -54,24 +54,36 @@ flutter run
 
 ---
 ### **5️⃣ Screen shots**
--App logo
+-**App logo**
+
+
 ![app_logo](https://github.com/user-attachments/assets/f8ea6d48-556b-4447-98f1-366688c55a4d)
 
--Landing page
+-**Landing page**
+
+
 ![landing_page](https://github.com/user-attachments/assets/d3c45e19-e3b0-44f9-90a7-2b309f6f2815)
 
 
--Home screen 
+-**Home screen **
+
+
 ![home_screen](https://github.com/user-attachments/assets/046b90c7-b63c-4c10-b2b7-100e6bc5ec9b)
 
--Category screen
-
-![category_scree![category_screeen2](https://github.com/user-attachments/assets/61ff269e-dec8-4790-9b73-b012677b24fa)
-
-n](https://github.com/user-attachments/assets/a89a3d30-b277-4836-a0e6-92e859363aa5)
+-**Category screen**
 
 
-![category_screen3](https://github.com/user-attachments/assets/4c96f045-85ab-46b7-8192-66983ae808fb)
+![category_screen](https://github.com/user-attachments/assets/081f0ef0-1f59-42d5-875a-d770358ed2a0)
+
+
+![category_screeen2](https://github.com/user-attachments/assets/2982c9c5-efc5-4578-acc3-cb90f1355d06)
+
+
+![category_screen3](https://github.com/user-attachments/assets/877022f3-fb7a-473b-a1ac-10943044de20)
+
+
+
+
 
 
 
