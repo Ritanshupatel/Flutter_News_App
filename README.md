@@ -92,10 +92,6 @@ flutter run
 ## **🤝 Contributing**
 Contributions are welcome! If you want to improve the app, feel free to **fork** this repository, make changes, and submit a **pull request**.
 
----
-
-## **📜 License**
-This project is **open-source** and available under the **MIT License**.
 
 ---
 
